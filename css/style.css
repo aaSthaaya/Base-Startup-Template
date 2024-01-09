@@ -1031,7 +1031,7 @@ input::-webkit-inner-spin-button {
     margin-left: 8px;
 }
 
-.footer-bottom {
+.footer-bottom { 
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1053,4 +1053,5 @@ input::-webkit-inner-spin-button {
 
 .footer-bottom-left ul li a:hover {
     color: #4e6bff;
+    cursor: pointer;
 }
